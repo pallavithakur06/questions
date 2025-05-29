@@ -1,0 +1,202 @@
+[
+  {
+    "question": "What is a good touch?",
+    "options": ["A touch that makes you happy", "A touch that hurts", "A touch that makes you scared"],
+    "answer": "A touch that makes you happy"
+  },
+  {
+    "question": "What is a bad touch?",
+    "options": ["A touch that makes you laugh", "A touch that makes you uncomfortable or scared", "A touch from your family"],
+    "answer": "A touch that makes you uncomfortable or scared"
+  },
+  {
+    "question": "Who can you tell if someone gives you a bad touch?",
+    "options": ["A stranger", "A trusted adult", "No one"],
+    "answer": "A trusted adult"
+  },
+  {
+    "question": "Should you keep a secret if someone touches you in a way that feels wrong?",
+    "options": ["Yes", "No", "Only if they tell you to"],
+    "answer": "No"
+  },
+  {
+    "question": "What should you do if someone touches you and you don’t like it?",
+    "options": ["Stay quiet", "Run away and tell someone", "Smile"],
+    "answer": "Run away and tell someone"
+  },
+  {
+    "question": "Who are safe adults to talk to?",
+    "options": ["Police officer, teacher, or parent", "Someone you don’t know", "A stranger in the park"],
+    "answer": "Police officer, teacher, or parent"
+  },
+  {
+    "question": "Which touch is okay?",
+    "options": ["A hug from your parents when you're happy", "A stranger asking you to sit on their lap", "Someone trying to tickle you even when you say no"],
+    "answer": "A hug from your parents when you're happy"
+  },
+  {
+    "question": "What should you say if someone gives you a bad touch?",
+    "options": ["Stop!", "Thank you", "Stay silent"],
+    "answer": "Stop!"
+  },
+  {
+    "question": "If someone gives you a gift and asks for a touch, should you accept it?",
+    "options": ["Yes", "No", "Only if you like the gift"],
+    "answer": "No"
+  },
+  {
+    "question": "Where are your private parts?",
+    "options": ["Places covered by your swimsuit", "Your arms and legs", "Your head"],
+    "answer": "Places covered by your swimsuit"
+  },
+  {
+    "question": "Is it okay to say “no” to an adult if they try to touch you inappropriately?",
+    "options": ["Yes", "No", "Only if you’re scared"],
+    "answer": "Yes"
+  },
+  {
+    "question": "If someone makes you feel uncomfortable, what should you do?",
+    "options": ["Ignore it", "Tell a safe adult", "Run away and never talk"],
+    "answer": "Tell a safe adult"
+  },
+  {
+    "question": "Is every hug a good touch?",
+    "options": ["Yes", "No, only if you feel safe and happy", "Always, no matter who hugs you"],
+    "answer": "No, only if you feel safe and happy"
+  },
+  {
+    "question": "Who should you tell if something bad happens?",
+    "options": ["Your friend", "A pet", "A trusted adult"],
+    "answer": "A trusted adult"
+  },
+  {
+    "question": "What is your body?",
+    "options": ["Yours only", "Everyone’s to share", "Teacher’s property"],
+    "answer": "Yours only"
+  },
+  {
+    "question": "What is a trusted adult?",
+    "options": ["Someone who keeps secrets", "Someone who keeps you safe", "Someone who gives you candy"],
+    "answer": "Someone who keeps you safe"
+  },
+  {
+    "question": "Is it okay for someone to touch your private parts during a game?",
+    "options": ["Yes", "No", "Only if it's fun"],
+    "answer": "No"
+  },
+  {
+    "question": "Can you shout if someone touches you wrongly?",
+    "options": ["No", "Yes", "Only sometimes"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What should you do after getting a bad touch?",
+    "options": ["Take a nap", "Talk to your friend", "Tell an adult you trust"],
+    "answer": "Tell an adult you trust"
+  },
+  {
+    "question": "Which of these is a good secret?",
+    "options": ["Surprise party for a friend", "Someone asking not to tell about a bad touch", "Someone hiding your toy"],
+    "answer": "Surprise party for a friend"
+  },
+  {
+    "question": "Should you allow someone to take pictures of your private parts?",
+    "options": ["Yes", "No", "Only if they are family"],
+    "answer": "No"
+  },
+  {
+    "question": "What if someone says you’ll get in trouble if you tell about a bad touch?",
+    "options": ["Believe them", "Still tell a trusted adult", "Keep quiet"],
+    "answer": "Still tell a trusted adult"
+  },
+  {
+    "question": "What is a body boundary?",
+    "options": ["A type of game", "A rule that no one should touch your private parts", "Something to draw"],
+    "answer": "A rule that no one should touch your private parts"
+  },
+  {
+    "question": "Can a doctor touch your private parts?",
+    "options": ["Never", "Only with your parents there and for checkup", "Always"],
+    "answer": "Only with your parents there and for checkup"
+  },
+  {
+    "question": "What should you do if someone tries to touch you in a wrong way?",
+    "options": ["Let them", "Shout “No!” and run away", "Cry quietly"],
+    "answer": "Shout “No!” and run away"
+  },
+  {
+    "question": "Who owns your body?",
+    "options": ["You", "Everyone", "Strangers"],
+    "answer": "You"
+  },
+  {
+    "question": "Is it okay to say 'I don't like that touch'?",
+    "options": ["No", "Yes", "Sometimes"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What is a private part?",
+    "options": ["A toy", "A place no one should touch without permission", "Your school"],
+    "answer": "A place no one should touch without permission"
+  },
+  {
+    "question": "Can you talk to your teacher if something feels wrong?",
+    "options": ["Yes", "No", "Only after school"],
+    "answer": "Yes"
+  },
+  {
+    "question": "Should you ever be forced to hug or kiss someone?",
+    "options": ["Yes", "No", "If they’re older"],
+    "answer": "No"
+  },
+  {
+    "question": "What is a safety rule?",
+    "options": ["A rule that keeps you safe", "A school game", "A rule for fun"],
+    "answer": "A rule that keeps you safe"
+  },
+  {
+    "question": "What should you do if someone follows you and makes you uncomfortable?",
+    "options": ["Stay silent", "Tell a trusted adult", "Keep walking"],
+    "answer": "Tell a trusted adult"
+  },
+  {
+    "question": "Can girls and boys both talk about bad touch?",
+    "options": ["Only girls", "Only boys", "Both"],
+    "answer": "Both"
+  },
+  {
+    "question": "If someone tells you a scary secret, should you keep it?",
+    "options": ["Yes", "No", "Maybe"],
+    "answer": "No"
+  },
+  {
+    "question": "Is your mouth a private part?",
+    "options": ["Yes", "No", "Only for babies"],
+    "answer": "Yes"
+  },
+  {
+    "question": "If you feel scared around someone, what should you do?",
+    "options": ["Keep it to yourself", "Tell your parents", "Forget it"],
+    "answer": "Tell your parents"
+  },
+  {
+    "question": "What should you do if you’re not sure about a touch?",
+    "options": ["Ask a trusted adult", "Ignore it", "Keep playing"],
+    "answer": "Ask a trusted adult"
+  },
+  {
+    "question": "What kind of touch is a high-five from your coach after a game?",
+    "options": ["Bad", "Good", "Scary"],
+    "answer": "Good"
+  },
+  {
+    "question": "Can a cousin give a bad touch?",
+    "options": ["No, because they're family", "Yes, anyone can", "Only strangers"],
+    "answer": "Yes, anyone can"
+  },
+  {
+    "question": "What’s the most important thing to remember?",
+    "options": ["Keep quiet", "Your body is your own", "Adults always know best"],
+    "answer": "Your body is your own"
+  }
+]

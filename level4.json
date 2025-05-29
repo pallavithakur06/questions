@@ -1,0 +1,242 @@
+[
+  {
+    "question": "What are private parts?",
+    "options": ["Places covered by your underwear", "Your arms and legs", "Your face"],
+    "answer": "Places covered by your underwear"
+  },
+  {
+    "question": "Who has the right to touch your private parts?",
+    "options": ["Only a doctor with your parent present", "Anyone in your family", "Friends"],
+    "answer": "Only a doctor with your parent present"
+  },
+  {
+    "question": "Is it okay if someone tells you to keep a touch a secret?",
+    "options": ["Yes", "No", "Only sometimes"],
+    "answer": "No"
+  },
+  {
+    "question": "What should you do if someone touches you in a way that feels wrong?",
+    "options": ["Tell a trusted adult", "Stay quiet", "Try to forget it"],
+    "answer": "Tell a trusted adult"
+  },
+  {
+    "question": "Should you always say ‘yes’ to an adult?",
+    "options": ["Yes", "No, especially if it makes you uncomfortable", "Only in school"],
+    "answer": "No, especially if it makes you uncomfortable"
+  },
+  {
+    "question": "Is it okay to say 'no' to a grown-up?",
+    "options": ["Yes", "No", "Only at home"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What kind of touch is called a bad touch?",
+    "options": ["One that makes you scared or sad", "A handshake", "A pat on the head"],
+    "answer": "One that makes you scared or sad"
+  },
+  {
+    "question": "What should you shout if someone tries to touch you inappropriately?",
+    "options": ["Help! Don’t touch me!", "Stop, please!", "Whisper for help"],
+    "answer": "Help! Don’t touch me!"
+  },
+  {
+    "question": "Is it your fault if someone touches you in a bad way?",
+    "options": ["Yes", "No", "Maybe"],
+    "answer": "No"
+  },
+  {
+    "question": "Who can be a trusted adult?",
+    "options": ["Teacher", "Police officer", "Both"],
+    "answer": "Both"
+  },
+  {
+    "question": "Can a family member give a bad touch?",
+    "options": ["No", "Yes", "Only strangers do that"],
+    "answer": "Yes"
+  },
+  {
+    "question": "Should you tell someone if you feel unsafe?",
+    "options": ["Yes", "No", "Keep it to yourself"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What should you do if a friend touches you in a wrong way?",
+    "options": ["Tell them to stop and report it", "Stay quiet", "Laugh it off"],
+    "answer": "Tell them to stop and report it"
+  },
+  {
+    "question": "Can someone use gifts to try and touch you in a bad way?",
+    "options": ["Yes", "No", "Never happens"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What is a safe touch?",
+    "options": ["A hug from mom", "Someone touching your private parts", "A stranger holding your hand"],
+    "answer": "A hug from mom"
+  },
+  {
+    "question": "Is it okay to keep secrets about touching?",
+    "options": ["No", "Yes", "Sometimes"],
+    "answer": "No"
+  },
+  {
+    "question": "Who owns your body?",
+    "options": ["You", "Your teacher", "Your parents"],
+    "answer": "You"
+  },
+  {
+    "question": "Can you talk about bad touches with your teacher?",
+    "options": ["Yes", "No", "Only at home"],
+    "answer": "Yes"
+  },
+  {
+    "question": "Should you run away from someone who tries to hurt you?",
+    "options": ["Yes", "No", "Only if you can"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What does your ‘safety circle’ mean?",
+    "options": ["People you can trust", "Circle you draw", "A round toy"],
+    "answer": "People you can trust"
+  },
+  {
+    "question": "Is it brave to speak up about a bad touch?",
+    "options": ["Yes", "No", "It’s not important"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What should you say to someone who tries to touch your private parts?",
+    "options": ["Stop! That’s not okay!", "Please stop", "Nothing"],
+    "answer": "Stop! That’s not okay!"
+  },
+  {
+    "question": "Should private parts be shown to anyone?",
+    "options": ["No", "Only when playing", "To friends"],
+    "answer": "No"
+  },
+  {
+    "question": "If you feel weird after a touch, is it okay to talk about it?",
+    "options": ["Yes", "No", "Only if it's with a stranger"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What should you do if you feel unsafe online?",
+    "options": ["Tell an adult", "Close the app quietly", "Ignore it"],
+    "answer": "Tell an adult"
+  },
+  {
+    "question": "Is watching videos of private parts okay?",
+    "options": ["No", "Yes", "Only if someone shows you"],
+    "answer": "No"
+  },
+  {
+    "question": "What if someone touches you and says you’ll get in trouble if you tell?",
+    "options": ["Tell a trusted adult anyway", "Stay quiet", "Believe them"],
+    "answer": "Tell a trusted adult anyway"
+  },
+  {
+    "question": "Can bad touch happen at school?",
+    "options": ["Yes", "No", "Only at home"],
+    "answer": "Yes"
+  },
+  {
+    "question": "Should you blame yourself for someone else’s bad behavior?",
+    "options": ["No", "Yes", "Sometimes"],
+    "answer": "No"
+  },
+  {
+    "question": "What should you do if someone keeps touching you wrongly?",
+    "options": ["Tell again and again until someone helps", "Stay silent", "Run away forever"],
+    "answer": "Tell again and again until someone helps"
+  },
+  {
+    "question": "Who should you trust if you feel unsafe?",
+    "options": ["Mom, dad, teacher", "The person who scared you", "A stranger"],
+    "answer": "Mom, dad, teacher"
+  },
+  {
+    "question": "Can someone hurt you even if they say they love you?",
+    "options": ["Yes", "No", "Not sure"],
+    "answer": "Yes"
+  },
+  {
+    "question": "Is it okay to cry if someone touches you in a bad way?",
+    "options": ["Yes", "No", "Only if it hurts"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What should you learn to protect yourself?",
+    "options": ["Good touch and bad touch rules", "Keep quiet", "Run fast"],
+    "answer": "Good touch and bad touch rules"
+  },
+  {
+    "question": "Is being scared a sign something is wrong?",
+    "options": ["Yes", "No", "Not always"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What should you do if an adult tries to make you watch something bad?",
+    "options": ["Tell your parents", "Watch quietly", "Keep it secret"],
+    "answer": "Tell your parents"
+  },
+  {
+    "question": "Can touching be bad even if it doesn't hurt?",
+    "options": ["Yes", "No", "Only if it hurts"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What if someone you love does something that makes you feel bad?",
+    "options": ["Tell a trusted adult", "Don’t tell anyone", "Keep it a secret"],
+    "answer": "Tell a trusted adult"
+  },
+  {
+    "question": "Is it safe to go anywhere with someone without telling your parents?",
+    "options": ["No", "Yes", "Only if it’s family"],
+    "answer": "No"
+  },
+  {
+    "question": "Can you change your mind if you said yes to something uncomfortable?",
+    "options": ["Yes", "No", "Too late"],
+    "answer": "Yes"
+  },
+  {
+    "question": "Can people on the internet hurt you with words or pictures?",
+    "options": ["Yes", "No", "Only if you know them"],
+    "answer": "Yes"
+  },
+  {
+    "question": "Should you tell even if someone says bad things will happen if you do?",
+    "options": ["Yes", "No", "Keep the secret"],
+    "answer": "Yes"
+  },
+  {
+    "question": "If a bad touch happens once, is it still serious?",
+    "options": ["Yes", "No", "Only if repeated"],
+    "answer": "Yes"
+  },
+  {
+    "question": "Can kids help stop bad touches by learning rules?",
+    "options": ["Yes", "No", "Only adults can"],
+    "answer": "Yes"
+  },
+  {
+    "question": "Is it brave to tell the truth about a bad touch?",
+    "options": ["Yes", "No", "Only sometimes"],
+    "answer": "Yes"
+  },
+  {
+    "question": "Should you listen to your 'uh-oh' feeling inside?",
+    "options": ["Yes", "No", "Ignore it"],
+    "answer": "Yes"
+  },
+  {
+    "question": "Can someone you love still do the wrong thing?",
+    "options": ["Yes", "No", "Never"],
+    "answer": "Yes"
+  },
+  {
+    "question": "Do you have the right to say NO to any touch that makes you feel bad?",
+    "options": ["Yes", "No", "Only to strangers"],
+    "answer": "Yes"
+  }
+]

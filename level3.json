@@ -1,0 +1,127 @@
+[
+  {
+    "question": "Can a family member give a bad touch?",
+    "options": ["Yes", "No", "Never"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What should you do if an uncle makes you feel uncomfortable?",
+    "options": ["Stay silent", "Tell a trusted adult", "Smile"],
+    "answer": "Tell a trusted adult"
+  },
+  {
+    "question": "Who can you tell if a family member gives a bad touch?",
+    "options": ["Your friend", "A trusted adult like a teacher or parent", "Nobody"],
+    "answer": "A trusted adult like a teacher or parent"
+  },
+  {
+    "question": "Is it okay to say 'no' to a family member if they touch you wrongly?",
+    "options": ["Yes", "No", "Only if they are not older"],
+    "answer": "Yes"
+  },
+  {
+    "question": "Should you keep it a secret if a family member touches your private parts?",
+    "options": ["Yes", "No", "Only if they ask you to"],
+    "answer": "No"
+  },
+  {
+    "question": "What parts of your body are private?",
+    "options": ["Places covered by your underwear", "Your feet", "Your hands"],
+    "answer": "Places covered by your underwear"
+  },
+  {
+    "question": "Is a hug from your mom when you're happy a good touch?",
+    "options": ["Yes", "No", "Maybe"],
+    "answer": "Yes"
+  },
+  {
+    "question": "If someone in your family makes you feel scared, what should you do?",
+    "options": ["Hide it", "Tell someone you trust", "Forget it"],
+    "answer": "Tell someone you trust"
+  },
+  {
+    "question": "Is it your fault if a family member touches you inappropriately?",
+    "options": ["Yes", "No", "Sometimes"],
+    "answer": "No"
+  },
+  {
+    "question": "What should you say if a family member gives you a bad touch?",
+    "options": ["Stop! I don’t like that!", "Thank you", "Stay silent"],
+    "answer": "Stop! I don’t like that!"
+  },
+  {
+    "question": "Can you trust your feelings if a touch feels wrong?",
+    "options": ["No", "Yes", "Only sometimes"],
+    "answer": "Yes"
+  },
+  {
+    "question": "Is it okay to talk to your parents if you feel uncomfortable around another family member?",
+    "options": ["No", "Yes", "Only if you’re not scared"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What if a cousin tries to touch your private parts?",
+    "options": ["Tell a trusted adult", "Let them", "Laugh it off"],
+    "answer": "Tell a trusted adult"
+  },
+  {
+    "question": "Is it okay to be alone with a family member who has made you feel unsafe before?",
+    "options": ["Yes", "No", "Only if they apologize"],
+    "answer": "No"
+  },
+  {
+    "question": "If a family member says 'This is our little secret,' should you tell someone?",
+    "options": ["Yes", "No", "Only if you're scared"],
+    "answer": "Yes"
+  },
+  {
+    "question": "Can a good touch become a bad touch if it makes you feel scared?",
+    "options": ["No", "Yes", "Not sure"],
+    "answer": "Yes"
+  },
+  {
+    "question": "Is a pat on the head by your grandparent a good touch?",
+    "options": ["Yes", "No", "Only if you’re eating"],
+    "answer": "Yes"
+  },
+  {
+    "question": "If your older sibling touches you in a way you don’t like, what should you do?",
+    "options": ["Stay quiet", "Tell a trusted adult", "Tell no one"],
+    "answer": "Tell a trusted adult"
+  },
+  {
+    "question": "What kind of touch is okay from your family?",
+    "options": ["Touch that makes you feel safe and happy", "Any kind of touch", "Secret touch"],
+    "answer": "Touch that makes you feel safe and happy"
+  },
+  {
+    "question": "Should you yell if a family member touches you in a bad way?",
+    "options": ["No", "Yes", "Only if you are outside"],
+    "answer": "Yes"
+  },
+  {
+    "question": "Is tickling okay if you’ve asked them to stop?",
+    "options": ["Yes", "No", "Only if it's fun for them"],
+    "answer": "No"
+  },
+  {
+    "question": "What should you remember about your body?",
+    "options": ["It belongs to you", "It belongs to adults", "It's for others to decide"],
+    "answer": "It belongs to you"
+  },
+  {
+    "question": "If a family member says they will hurt you if you tell, what should you do?",
+    "options": ["Stay quiet", "Tell a trusted adult anyway", "Do what they say"],
+    "answer": "Tell a trusted adult anyway"
+  },
+  {
+    "question": "Can grandparents also give bad touch?",
+    "options": ["No", "Yes, anyone can", "Only strangers"],
+    "answer": "Yes, anyone can"
+  },
+  {
+    "question": "Who should you go to if you feel unsafe in your own home?",
+    "options": ["The person making you feel unsafe", "A trusted teacher, counselor, or adult outside home", "Nobody"],
+    "answer": "A trusted teacher, counselor, or adult outside home"
+  }
+]

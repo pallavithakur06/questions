@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Who is a stranger?",
+    "options": ["Someone you know well", "Someone you don’t know", "Your best friend"],
+    "answer": "Someone you don’t know"
+  },
+  {
+    "question": "Should you take candy from a stranger?",
+    "options": ["Yes", "No", "Only if they are nice"],
+    "answer": "No"
+  },
+  {
+    "question": "If a stranger asks you to go with them, what should you do?",
+    "options": ["Go quickly", "Say no and run away", "Ignore it and walk slowly"],
+    "answer": "Say no and run away"
+  },
+  {
+    "question": "Should you talk to strangers when you're alone?",
+    "options": ["Yes", "No", "Only if they look friendly"],
+    "answer": "No"
+  },
+  {
+    "question": "What is the best place to go if a stranger scares you?",
+    "options": ["A dark alley", "A public place", "Behind a tree"],
+    "answer": "A public place"
+  },
+  {
+    "question": "What should you do if a stranger grabs you?",
+    "options": ["Scream, kick, and run", "Stay calm and quiet", "Say thank you"],
+    "answer": "Scream, kick, and run"
+  },
+  {
+    "question": "Is it okay to help a stranger look for their lost pet?",
+    "options": ["Yes", "No", "Only if they are crying"],
+    "answer": "No"
+  },
+  {
+    "question": "What should you do if you get lost?",
+    "options": ["Hide", "Ask a police officer or worker for help", "Look for the stranger who looks kind"],
+    "answer": "Ask a police officer or worker for help"
+  },
+  {
+    "question": "Who can you trust if you’re lost in a mall?",
+    "options": ["A shop worker", "A stranger", "Someone sitting outside"],
+    "answer": "A shop worker"
+  },
+  {
+    "question": "Should you keep a secret if a stranger tells you not to tell your parents?",
+    "options": ["Yes", "No", "Only if they give you something"],
+    "answer": "No"
+  },
+  {
+    "question": "Is every adult safe to go with?",
+    "options": ["Yes", "No", "Only if they are smiling"],
+    "answer": "No"
+  },
+  {
+    "question": "Should you open the door if you're home alone and someone knocks?",
+    "options": ["Yes", "No", "Only if they say they’re a friend"],
+    "answer": "No"
+  },
+  {
+    "question": "Can strangers sometimes look friendly?",
+    "options": ["Yes", "No", "Never"],
+    "answer": "Yes"
+  },
+  {
+    "question": "If a stranger offers you a toy, what should you do?",
+    "options": ["Say thank you", "Take it and go with them", "Say no and tell an adult"],
+    "answer": "Say no and tell an adult"
+  },
+  {
+    "question": "What is the first thing you should do if a stranger makes you feel unsafe?",
+    "options": ["Stay silent", "Tell a trusted adult", "Run home and keep it secret"],
+    "answer": "Tell a trusted adult"
+  },
+  {
+    "question": "Should you ever go somewhere with a stranger to help them?",
+    "options": ["Yes", "No", "Only if it’s daytime"],
+    "answer": "No"
+  },
+  {
+    "question": "Is it okay to get into a stranger’s car?",
+    "options": ["Yes", "No", "Only if they offer a ride"],
+    "answer": "No"
+  },
+  {
+    "question": "Who are safe people to ask for help?",
+    "options": ["Police officer, teacher, or store employee", "Random people", "Anyone who smiles"],
+    "answer": "Police officer, teacher, or store employee"
+  },
+  {
+    "question": "What should you shout if someone tries to take you?",
+    "options": ["Help! Stranger!", "Stop!", "Be quiet!"],
+    "answer": "Help! Stranger!"
+  },
+  {
+    "question": "If a stranger follows you, what should you do?",
+    "options": ["Walk slowly", "Run to a safe place and tell an adult", "Hide"],
+    "answer": "Run to a safe place and tell an adult"
+  },
+  {
+    "question": "Can strangers be on the internet too?",
+    "options": ["No", "Yes", "Only in real life"],
+    "answer": "Yes"
+  },
+  {
+    "question": "Should you share your address with someone you don’t know online?",
+    "options": ["Yes", "No", "Only your city"],
+    "answer": "No"
+  },
+  {
+    "question": "What if someone online asks to meet you?",
+    "options": ["Say okay", "Ignore and tell a trusted adult", "Tell them your school name"],
+    "answer": "Ignore and tell a trusted adult"
+  },
+  {
+    "question": "If you feel unsure about a person, what should you do?",
+    "options": ["Wait to see what happens", "Tell a trusted adult", "Ignore the feeling"],
+    "answer": "Tell a trusted adult"
+  },
+  {
+    "question": "Is it safe to walk alone at night?",
+    "options": ["Yes", "No", "Only on weekends"],
+    "answer": "No"
+  },
+  {
+    "question": "What should you do if someone tries to give you a secret gift?",
+    "options": ["Take it and hide it", "Say no and tell an adult", "Share with your friend"],
+    "answer": "Say no and tell an adult"
+  },
+  {
+    "question": "Should you tell your parents where you're going always?",
+    "options": ["Yes", "No", "Only if you're going far"],
+    "answer": "Yes"
+  },
+  {
+    "question": "If a stranger touches you inappropriately, what should you do?",
+    "options": ["Keep quiet", "Tell a trusted adult immediately", "Run and hide"],
+    "answer": "Tell a trusted adult immediately"
+  },
+  {
+    "question": "What is the best way to stay safe around strangers?",
+    "options": ["Stay close to trusted adults", "Talk to everyone", "Trust anyone who smiles"],
+    "answer": "Stay close to trusted adults"
+  },
+  {
+    "question": "What should you say if someone you don’t know offers you something?",
+    "options": ["Yes please", "No, thank you", "Ask them for more"],
+    "answer": "No, thank you"
+  }
+]
